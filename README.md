@@ -1,2 +1,1 @@
-# hello
-making a github repo for c++ class
+C++ projects to implement concepts from course on c++, data structures, and algorithms
